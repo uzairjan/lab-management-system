@@ -390,34 +390,34 @@ var table_equipment = $('.table_equipment').DataTable({
 		],
 		dom: "Bfrtip",
 		buttons: [
-			{
-				extend: "copy",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
-			{
-				extend: "csv",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
-			{
-				extend: "excel",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
-			{
-				extend: "pdfHtml5",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
+			// {
+			// 	extend: "copy",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
+			// {
+			// 	extend: "csv",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
+			// {
+			// 	extend: "excel",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
+			// {
+			// 	extend: "pdfHtml5",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
 			{
 				extend: "print",
 				className: "btn-sm btn-success",
@@ -1132,34 +1132,34 @@ var tbl_borrow = $('.tbl_borrow').DataTable({
 		],
 		dom: "Bfrtip",
 		buttons: [
-			{
-				extend: "copy",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
-			{
-				extend: "csv",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
-			{
-				extend: "excel",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
-			{
-				extend: "pdfHtml5",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2,3]
-				}
-			},
+			// {
+			// 	extend: "copy",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
+			// {
+			// 	extend: "csv",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
+			// {
+			// 	extend: "excel",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
+			// {
+			// 	extend: "pdfHtml5",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2,3]
+			// 	}
+			// },
 			{
 				extend: "print",
 				className: "btn-sm btn-success",
@@ -1219,34 +1219,34 @@ var tbl_return = $('.tbl_return').DataTable({
 		],
 		dom: "Bfrtip",
 		buttons: [
-			{
-				extend: "copy",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2]
-				}
-			},
-			{
-				extend: "csv",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2]
-				}
-			},
-			{
-				extend: "excel",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2]
-				}
-			},
-			{
-				extend: "pdfHtml5",
-				className: "btn-sm btn-success",
-				exportOptions:{
-					columns: [0,1,2]
-				}
-			},
+			// {
+			// 	extend: "copy",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2]
+			// 	}
+			// },
+			// {
+			// 	extend: "csv",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2]
+			// 	}
+			// },
+			// {
+			// 	extend: "excel",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2]
+			// 	}
+			// },
+			// {
+			// 	extend: "pdfHtml5",
+			// 	className: "btn-sm btn-success",
+			// 	exportOptions:{
+			// 		columns: [0,1,2]
+			// 	}
+			// },
 			{
 				extend: "print",
 				className: "btn-sm btn-success",
